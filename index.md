@@ -1,5 +1,3 @@
-# Send Beer
-
 Unless stated, prices for 24x 330ml cans inc. delivery.
 
 ## London
