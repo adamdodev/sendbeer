@@ -1,5 +1,5 @@
 <p align="center">
-  Approximate prices for 24 x 330ml mixed cans inc. delivery, unless stated.<br/>
+  Approximate prices for 24 x 330ml inc. delivery, unless stated.<br/>
   Prices and info are guidelines only and may not be up to date.</br>
 </p>
 
