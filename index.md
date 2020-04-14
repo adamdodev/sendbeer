@@ -1,22 +1,24 @@
-Unless stated, prices for 24x 330ml cans inc. delivery.
+<p align="center">
+  Approximate prices for 24 x 330ml mixed cans inc. delivery, unless stated.<br/>
+  Prices and info are guidelines only and may not be up to date.</br>
+</p>
 
 ## London
 
-| Brewery | Price | Notes | |
-| --- | --- | --- | --- |
-| Brixton Brewery | £53 | Mix of pales and a few lagers | [Buy It](https://www.brixtonbrewery.com/product/mixed_case/) |
-| Canopy Brewery | £50 | Mix of pales and a few kolsch | [Buy It](https://shop.canopybeer.com/products/essentials-box-24-pack?variant=31453371334769) |
-| Gipsy Hill Brewery | £53-£63 | Build your own mix of pales and lagers | [Buy It](https://gipsyhillbrew.com/product/mix-match-core-range-24-pack-copy/) |
-| Brew By Numbers | £65 | Bulk session with additional porters, ales and sours | [Buy It](https://shop.brewbynumbers.com/collections/mixed-cases/products/ultimate-brew-by-numbers-box) |
-| Fourpure | £51 | Build your own mix of pales | [Buy It](https://www.fourpure.com/browse) |
-| Howling Hops | £70 | 440ml mix of pales, random selection | [Buy It](https://www.howlinghops.co.uk/product/preorder-6-beer-mixed-case-24-x-440ml/) |
-| Five Points | £50 | 2x packs of pales 12 cans | [Buy It](https://shop.fivepointsbrewing.co.uk/browse/c-Beers-11) |
-
+| Brewery | Prices From (single/mixed) | Delivery Time | Notes | |
+| --- | --- | --- | --- | --- |
+| Brew By Numbers | £50/65 | 1 day | | [Shop](https://shop.brewbynumbers.com/collections/whole-cases) |
+| Brixton Brewery | £52/52 | 2-4 days | | [Shop](https://www.brixtonbrewery.com/product-category/beers/) |
+| Canopy Brewery | £50/50 | TBC / Deliveroo available | | [Shop](https://shop.canopybeer.com) |
+| Five Points | £50/50 | 3-5 days | | [Shop](https://shop.fivepointsbrewing.co.uk/browse/c-Beers-11) |
+| Fourpure | £43/53 | Up to 5 days | | [Shop](https://www.fourpure.com/browse) |
+| Gipsy Hill Brewery | £53/53 | TBC | | [Shop](https://gipsyhillbrew.com/shop) |
+| Howling Hops | £63/70 | 1-4 days | 440ml cans | [Shop](https://www.howlinghops.co.uk/shop/) |
 
 ## Other
 
-| Brewery | Price | Notes | |
-| --- | --- | --- | --- |
-| Tiny Rebel | £43 | Clwb, Cwtch, Dutty and Peaches | [Buy It](https://www.tinyrebel.co.uk/beer/new-mixed-24-pack)
-| Wild Beer Co | £55 | 36X cans of 3 different beers | [Buy It](https://www.wildbeerco.com/browse/c-Mixed-Cases-Deals-50)
-| Vocation | £43 | Build your own with choice of 2 | [Buy It](https://www.vocationbrewery.com/collections/core)
+| Brewery | Prices From (single/mixed) | Delivery Time | Notes | |
+| --- | --- | --- | --- | --- |
+| Tiny Rebel | £53/56 | 3-5 days | | [Shop](https://www.tinyrebel.co.uk/browse/c-BEERS-5)
+| Wild Beer Co | £45/50 | 1-5 days | | [Shop](https://www.wildbeerco.com/browse/c-Mixed-Cases-Deals-50)
+| Vocation | £37/38 | TBC | Delivery price not included | [Shop](https://www.vocationbrewery.com/collections/core)
