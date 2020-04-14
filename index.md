@@ -5,7 +5,7 @@
 
 ## London
 
-| Brewery | Prices From (single/mixed) | Delivery Time | Notes | |
+| Brewery | Prices From<br/>(single/mixed) | Delivery Time | Notes | |
 | --- | --- | --- | --- | --- |
 | Brew By Numbers | £50/65 | 1 day | | [Shop](https://shop.brewbynumbers.com/collections/whole-cases) |
 | Brixton Brewery | £52/52 | 2-4 days | | [Shop](https://www.brixtonbrewery.com/product-category/beers/) |
@@ -17,7 +17,7 @@
 
 ## Other
 
-| Brewery | Prices From (single/mixed) | Delivery Time | Notes | |
+| Brewery | Prices From<br/>(single/mixed) | Delivery Time | Notes | |
 | --- | --- | --- | --- | --- |
 | Tiny Rebel | £53/56 | 3-5 days | | [Shop](https://www.tinyrebel.co.uk/browse/c-BEERS-5)
 | Wild Beer Co | £45/50 | 1-5 days | | [Shop](https://www.wildbeerco.com/browse/c-Mixed-Cases-Deals-50)
