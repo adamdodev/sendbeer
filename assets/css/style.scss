@@ -3,11 +3,15 @@
 
 @import "{{ site.theme }}";
 
+span.banner-fix {
+  display: none;
+}
+
 section#downloads, div#no-downloads {
-background: none;
+  background: none;
 }
 
 div.shell {
-width: 90%;
-max-width: 1024px;
+  width: 90%;
+  max-width: 1024px;
 }
