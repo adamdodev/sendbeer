@@ -5,7 +5,7 @@ Unless stated, prices for 24x 330ml cans inc. delivery.
 | Brewery | Price | Notes | |
 | --- | --- | --- | --- |
 | Brixton Brewery | £53 | Mix of pales and a few lagers | [Buy It](https://www.brixtonbrewery.com/product/mixed_case/) |
-| Canopy Brewery | £54 | Mix of pales and a few kolsch | [Buy It](https://shop.canopybeer.com/products/essentials-box-24-pack?variant=31453371334769) |
+| Canopy Brewery | £50 | Mix of pales and a few kolsch | [Buy It](https://shop.canopybeer.com/products/essentials-box-24-pack?variant=31453371334769) |
 | Gipsy Hill Brewery | £53-£63 | Build your own mix of pales and lagers | [Buy It](https://gipsyhillbrew.com/product/mix-match-core-range-24-pack-copy/) |
 | Brew By Numbers | £65 | Bulk session with additional porters, ales and sours | [Buy It](https://shop.brewbynumbers.com/collections/mixed-cases/products/ultimate-brew-by-numbers-box) |
 | Fourpure | £51 | Build your own mix of pales | [Buy It](https://www.fourpure.com/browse) |
