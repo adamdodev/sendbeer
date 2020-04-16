@@ -5,15 +5,15 @@
 
 ## London
 
-| Brewery | Prices From<br/>(single/mixed) | Delivery Time | Notes | |
-| --- | --- | --- | --- | --- |
-| Brew By Numbers | £50/65 | 1 day | | [Shop](https://shop.brewbynumbers.com/collections/whole-cases) |
-| Brixton Brewery | £52/52 | 2-4 days | | [Shop](https://www.brixtonbrewery.com/product-category/beers/) |
-| Canopy Brewery | £50/50 | TBC / Deliveroo available | | [Shop](https://shop.canopybeer.com) |
-| Five Points | £50/50 | 3-5 days | | [Shop](https://shop.fivepointsbrewing.co.uk/browse/c-Beers-11) |
-| Fourpure | £43/53 | Up to 5 days | | [Shop](https://www.fourpure.com/browse) |
-| Gipsy Hill Brewery | £53/53 | TBC | | [Shop](https://gipsyhillbrew.com/shop) |
-| Howling Hops | £63/70 | 1-4 days | 440ml cans | [Shop](https://www.howlinghops.co.uk/shop/) |
+| Brewery | Prices From<br/>(single/mixed) | Delivery Time | |
+| --- | --- | --- | --- |
+| Brew By Numbers | £50/65 | 1 day | [Shop](https://shop.brewbynumbers.com/collections/whole-cases) |
+| Brixton Brewery | £52/52 | 2-4 days | [Shop](https://www.brixtonbrewery.com/product-category/beers/) |
+| Canopy Brewery | £50/50 | TBC / Deliveroo available | [Shop](https://shop.canopybeer.com) |
+| Five Points | £50/50 | 3-5 days | [Shop](https://shop.fivepointsbrewing.co.uk/browse/c-Beers-11) |
+| Fourpure | £43/53 | Up to 5 days | [Shop](https://www.fourpure.com/browse) |
+| Gipsy Hill Brewery | £53/53 | TBC | [Shop](https://gipsyhillbrew.com/shop) |
+| Howling Hops | £63/70<br/>* 440ml cans | 1-4 days | [Shop](https://www.howlinghops.co.uk/shop/) |
 
 ## Other
 
