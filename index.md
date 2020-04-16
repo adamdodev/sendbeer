@@ -1,11 +1,11 @@
 <p align="center">
-  Approximate prices for 24 x 330ml inc. delivery, unless stated.<br/>
+  Approximate prices for 24 x 330ml single/mixed creates inc. delivery, unless stated.<br/>
   Prices and info are guidelines only and may not be up to date.
 </p>
 
 ## London
 
-| Brewery | Prices From<br/>(single/mixed) | Delivery Time | |
+| Brewery | Prices From | Delivery Time | |
 | --- | --- | --- | --- |
 | Brew By Numbers | £50/65 | 1 day | [Shop](https://shop.brewbynumbers.com/collections/whole-cases) |
 | Brixton Brewery | £52/52 | 2-4 days | [Shop](https://www.brixtonbrewery.com/product-category/beers/) |
@@ -17,8 +17,8 @@
 
 ## Other
 
-| Brewery | Prices From<br/>(single/mixed) | Delivery Time | Notes | |
-| --- | --- | --- | --- | --- |
-| Tiny Rebel | £53/56 | 3-5 days | | [Shop](https://www.tinyrebel.co.uk/browse/c-BEERS-5)
-| Wild Beer Co | £45/50 | 1-5 days | | [Shop](https://www.wildbeerco.com/browse/c-Mixed-Cases-Deals-50)
-| Vocation | £37/38 | TBC | Delivery price not included | [Shop](https://www.vocationbrewery.com/collections/core)
+| Brewery | Prices From | Delivery Time | |
+| --- | --- | --- | --- |
+| Tiny Rebel | £53/56 | 3-5 days | [Shop](https://www.tinyrebel.co.uk/browse/c-BEERS-5)
+| Wild Beer Co | £45/50 | 1-5 days | [Shop](https://www.wildbeerco.com/browse/c-Mixed-Cases-Deals-50)
+| Vocation | £37/38<br/>* Delivery not included | TBC | [Shop](https://www.vocationbrewery.com/collections/core)
