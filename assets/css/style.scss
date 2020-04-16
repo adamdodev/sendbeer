@@ -7,12 +7,12 @@
 //   display: none;
 // }
 
-// section#downloads, div#no-downloads {
-//   background: none;
-// }
+section#downloads, div#no-downloads {
+  background: none;
+}
 
 #main_content {
-  padding: 0;
+  padding: 0 !important;
 }
 
 div.shell {
